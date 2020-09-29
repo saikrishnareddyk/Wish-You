@@ -6,4 +6,42 @@ img{
     width: 400px;
     border: 3px solid;
     border-color: #fafafa;
+    margin-top: 30px;
+ 
 }
+body {
+    --primary: 25, 91, 255;
+    --color: 44, 62, 80;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: 100vh;
+    /* background: #f4f7f8; */
+    height: calc(var(--vh, 1vh) * 100);
+    overflow: hidden;
+    color: rgb(var(--color));
+}
+.content {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;  
+}
+
+.con-user {
+    padding-top: 10px;
+    width: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* background: #fff; */
+    padding-bottom: 10px;
+    border-radius: 0px 0px 40px 0px;
+   
+}
+
+
