@@ -1,25 +1,42 @@
 .bg-image{
-    background-image: url(https://i.pinimg.com/564x/d8/54/bb/d854bb1a1ff9e1662e22dc2e9ac95c20.jpg);  
+    /* background-image: url(https://wallpapercave.com/wp/wp6034605.jpg);  */
+    background-image:url(https://wallpapercave.com/wp/wp4150852.jpg) ;
+    /* background-image: url(https://i.pinimg.com/564x/b7/23/99/b723996b7269f78514b9af5743f4d8fd.jpg);  */
+    /* background-image: url(https://i.pinimg.com/236x/2e/31/9d/2e319d5b9ad0294a36a9806bed30f413.jpg); */
+    height:700px;
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    background-size: cover;
+
 }
 img{
     height: 400px;
     width: 400px;
     border: 3px solid;
     border-color: #fafafa;
-    margin-top: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+
+   
  
 }
+h1{
+    color:rgb(0, 255, 13);
+    
+    background-color:cornsilk ;
+    margin-left: 50px;
+}
 body {
-    --primary: 25, 91, 255;
+    /* --primary: 25, 91, 255;
     --color: 44, 62, 80;
     display: flex;
     align-items: flex-start;
     justify-content: center;
     height: 100vh;
-    /* background: #f4f7f8; */
+    background: black;
     height: calc(var(--vh, 1vh) * 100);
     overflow: hidden;
-    color: rgb(var(--color));
+    color: rgb(var(--color)); */
 }
 .content {
     width: 100%;
