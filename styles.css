@@ -1,63 +1,38 @@
 .bg-image{
+
     /* background-image: url(https://wallpapercave.com/wp/wp6034605.jpg);  */
-    background-image:url(https://wallpapercave.com/wp/wp4150852.jpg) ;
+    /* background-image:url(https://www.teahub.io/photos/full/15-159256_colorful-circles-with-black-background-and-apple-logo.jpg) ; */
+    background-image: url(https://sfwallpaper.com/images/apple-logo-hd-wallpaper-13.jpg);
+    /* background-image: url(https://c4.wallpaperflare.com/wallpaper/84/316/49/apple-logo-apple-logo-wallpaper-preview.jpg); */
+    /* background-image: url(https://c4.wallpaperflare.com/wallpaper/1013/407/592/apple-galaxy-wallpaper-preview.jpg); */
     /* background-image: url(https://i.pinimg.com/564x/b7/23/99/b723996b7269f78514b9af5743f4d8fd.jpg);  */
     /* background-image: url(https://i.pinimg.com/236x/2e/31/9d/2e319d5b9ad0294a36a9806bed30f413.jpg); */
-    height:700px;
+
     /* background-repeat: no-repeat; */
     /* background-size: contain; */
-    background-size: cover;
+    /* background-size: contain; */
 
 }
 img{
-    height: 400px;
-    width: 400px;
-    border: 3px solid;
-    border-color: #fafafa;
-    margin-top: 100px;
-    margin-left: 100px;
+    
+    border: 3px solid gold;
 
    
  
 }
 h1{
     color: orangered;
+    
     background-color:cornsilk ;
     margin-left: 50px;
 }
 body {
-    /* --primary: 25, 91, 255;
-    --color: 44, 62, 80;
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-    height: 100vh;
-    background: black;
-    height: calc(var(--vh, 1vh) * 100);
-    overflow: hidden;
-    color: rgb(var(--color)); */
-}
-.content {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    overflow: hidden;  
+/*   
+    background: black; */
+    
+ 
 }
 
-.con-user {
-    padding-top: 10px;
-    width: 100%;
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    /* background: #fff; */
-    padding-bottom: 10px;
-    border-radius: 0px 0px 40px 0px;
-   
-}
+
 
 
